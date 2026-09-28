@@ -1,0 +1,27 @@
+{
+  "checkedAt": "2026-09-28T16:01:25.774407+00:00",
+  "commit": "1fd32756dec138a08fbc6d6bc5d438afba8a51d2",
+  "scope": "Local automated tests with isolated databases and fictional fixtures, not Render production tests",
+  "browserEnvironment": "Local Chrome; 1280px, 320px and 390px viewports; not physical devices",
+  "results": [
+    {
+      "command": "npm test",
+      "tests": 97,
+      "pass": 97,
+      "fail": 0,
+      "cancelled": 0,
+      "skipped": 0,
+      "todo": 0
+    },
+    {
+      "command": "node --test tests/repeat-browser.mjs",
+      "tests": 3,
+      "pass": 3,
+      "fail": 0,
+      "cancelled": 0,
+      "skipped": 0,
+      "todo": 0
+    }
+  ],
+  "privacy": "Only aggregate counters copied from process output; no raw logs, addresses, credentials, private paths or test records included"
+}

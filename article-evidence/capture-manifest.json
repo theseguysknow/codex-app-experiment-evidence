@@ -1,0 +1,104 @@
+{
+  "capturedAt": "2026-09-28T16:00:07.900Z",
+  "browser": "153.0.8010.54",
+  "data": "Only built-in fictional scenarios in a disposable in-memory database; no existing local or production database accessed.",
+  "privacy": "Account header excluded by main/dialog crop. No DOM text substitution, masking or screenshot retouching. Original image includes original body. No account credentials recorded.",
+  "images": [
+    {
+      "file": "01-original-prototype-desktop.png",
+      "source": "Recovered original static prototype, locally served; fictional built-in scenarios",
+      "version": "imported-prototype/dist tree retained at 1fd32756; app.js Git blob 47d5d41b14dc35e84e10710dff0bb68fd5a18c3d",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "crop": "semantic app region",
+      "sha256": "f33a17047613083625993cd84bc1c1799c0141804153fc45390d049cbde85ad7",
+      "imagePixels": {
+        "width": 1280,
+        "height": 1150
+      },
+      "privacyReview": "Visually inspected: fictional demo records only; no account address, token, secret, real customer information or tester details visible."
+    },
+    {
+      "file": "02-local-desktop-overview.png",
+      "source": "Current local code, isolated in-memory database, built-in fictional demo",
+      "version": "1fd32756dec138a08fbc6d6bc5d438afba8a51d2",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "crop": "semantic app region",
+      "sha256": "ae5da113147bdbe149bac532797890874b7d9364d8ea9ad1a3b2f7a300680add",
+      "imagePixels": {
+        "width": 1180,
+        "height": 1322
+      },
+      "privacyReview": "Visually inspected: fictional demo records only; no account address, token, secret, real customer information or tester details visible."
+    },
+    {
+      "file": "03-local-phone-overview-390.png",
+      "source": "Current local code, desktop Chrome at phone viewport (not a physical-phone capture)",
+      "version": "1fd32756dec138a08fbc6d6bc5d438afba8a51d2",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "crop": "semantic app region",
+      "sha256": "bb83529f5fab2fa3b9e4dd467dbc5ea84c8664cfdedcde572f0a49cfe0c2d86a",
+      "imagePixels": {
+        "width": 354,
+        "height": 2072
+      },
+      "privacyReview": "Visually inspected: fictional demo records only; no account address, token, secret, real customer information or tester details visible."
+    },
+    {
+      "file": "04-local-atlas-history.png",
+      "source": "Current local code, fictional Atlas record with missed promise and retained invoice history",
+      "version": "1fd32756dec138a08fbc6d6bc5d438afba8a51d2",
+      "viewport": {
+        "width": 1280,
+        "height": 1000
+      },
+      "crop": "semantic app region",
+      "sha256": "966babb18f659b947559764f7d7125c143da9efd2b239843ed3dbd6c6d2afe9b",
+      "imagePixels": {
+        "width": 1180,
+        "height": 983
+      },
+      "privacyReview": "Visually inspected: fictional demo records only; no account address, token, secret, real customer information or tester details visible."
+    },
+    {
+      "file": "05-local-record-invoice-action.png",
+      "source": "Real existing invoice-recording dialog; fictional Brightlane; not an email/invoice send",
+      "version": "1fd32756dec138a08fbc6d6bc5d438afba8a51d2",
+      "viewport": {
+        "width": 1280,
+        "height": 1000
+      },
+      "crop": "semantic app region",
+      "sha256": "4d9e53337302e524a8b66cb8918fc2bcca23c4184eac6f0e6a187d01e7417802",
+      "imagePixels": {
+        "width": 580,
+        "height": 516
+      },
+      "privacyReview": "Visually inspected: fictional demo records only; no account address, token, secret, real customer information or tester details visible."
+    },
+    {
+      "file": "06-local-only-fast-repeat.png",
+      "source": "LOCAL-ONLY repeat-entry dialog; not deployed on Render",
+      "version": "1fd32756dec138a08fbc6d6bc5d438afba8a51d2",
+      "viewport": {
+        "width": 1280,
+        "height": 1000
+      },
+      "crop": "semantic app region",
+      "sha256": "39b20b5fb0bdbcf64231592694c585b35bb71829db9ba680d7c4f03f95320e6c",
+      "imagePixels": {
+        "width": 580,
+        "height": 688
+      },
+      "privacyReview": "Visually inspected: fictional demo records only; no account address, token, secret, real customer information or tester details visible."
+    }
+  ]
+}

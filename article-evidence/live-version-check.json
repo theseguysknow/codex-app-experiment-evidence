@@ -1,0 +1,49 @@
+{
+  "checkedAt": "2026-09-28T16:00:27.985Z",
+  "origin": "https://unfinished-app.onrender.com",
+  "method": "Unauthenticated read-only GET of public assets; no production records requested",
+  "limit": "Asset matches establish frontend equivalence, not the deployed backend SHA or private configuration",
+  "results": [
+    {
+      "path": "/healthz",
+      "status": 200,
+      "healthy": true
+    },
+    {
+      "path": "/app.js",
+      "status": 200,
+      "sha256": "c7428b6cf78084067d5fc82c404d4896301c977d7eb301bbb560ade4a74a2ba7",
+      "matches": {
+        "a1ff0856fea4d3c3cddbcb928fccb575b88e4971": true,
+        "1fd32756dec138a08fbc6d6bc5d438afba8a51d2": false
+      }
+    },
+    {
+      "path": "/model.js",
+      "status": 200,
+      "sha256": "6a37b869daa66dec0bdefded0f9c0dd02e48c3a1466a69e98e3fbf4fe5a31429",
+      "matches": {
+        "a1ff0856fea4d3c3cddbcb928fccb575b88e4971": true,
+        "1fd32756dec138a08fbc6d6bc5d438afba8a51d2": false
+      }
+    },
+    {
+      "path": "/style.css",
+      "status": 200,
+      "sha256": "e5dc7f0a91e8c0fe2e0071b349c72b2167271470994e4ddd6776551086ddec0f",
+      "matches": {
+        "a1ff0856fea4d3c3cddbcb928fccb575b88e4971": true,
+        "1fd32756dec138a08fbc6d6bc5d438afba8a51d2": false
+      }
+    },
+    {
+      "path": "/auth-links.js",
+      "status": 200,
+      "sha256": "4c01f1d328be8be785aa5cd2715e5f4bff5a84d739d7b9d75d09e9cbfb01c7c5",
+      "matches": {
+        "a1ff0856fea4d3c3cddbcb928fccb575b88e4971": true,
+        "1fd32756dec138a08fbc6d6bc5d438afba8a51d2": true
+      }
+    }
+  ]
+}
